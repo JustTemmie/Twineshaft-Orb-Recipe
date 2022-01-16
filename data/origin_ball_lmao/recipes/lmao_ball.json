@@ -1,0 +1,41 @@
+{
+    "type": "crafting_shaped",
+    "result": {
+        "item": "origins:orb_of_origin",
+        "count": 1
+    },
+    "pattern": [
+        "ABC",
+        "GEF",
+        "DHI"
+    ],
+    "key": {
+        "A": {
+            "item": "minecraft:spore_blossom"
+        },
+        "B": {
+            "item": "minecraft:dragon_head"
+        },
+        "C": {
+            "item": "minecraft:conduit"
+        },
+        "D": {
+            "item": "minecraft:nether_star"
+        },
+        "E": {
+            "item": "minecraft:player_head"
+        },
+        "F": {
+            "item": "minecraft:trident"
+        },
+        "G": {
+            "item": "minecraft:totem_of_undying"
+        },
+        "H": {
+            "item": "minecraft:netherite_block"
+        },
+        "I": {
+            "item": "minecraft:experience_bottle"
+        }
+    }
+}
